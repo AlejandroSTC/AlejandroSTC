@@ -1,7 +1,7 @@
 ### I'm a self-taught passionate BackEnd developer from Colombia 🇨🇴
 
 ![AlejandroSTC GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroSTC&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSTC&layout=compact)](https://github.com/AlejandroSTC/github-readme-stats)
 
 ## Technologies
 <div style="display: inline_block"><br/>
