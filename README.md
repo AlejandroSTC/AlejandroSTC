@@ -1,6 +1,4 @@
 ### I'm a self-taught passionate BackEnd developer from Colombia 🇨🇴
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://AlejandroSteinman@protonmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroSTC)
 
 ![AlejandroSTC GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroSTC&show_icons=true&theme=radical)
 
@@ -13,6 +11,7 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </div>
+
 <!--
 **AlejandroSTC/AlejandroSTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
