@@ -1,7 +1,3 @@
-### Undergrad Student at the Technological University of Bolívar
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteinDevlop&show_icons=true&theme=midnight-purple" />
-</a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteinDevlop&langs_count=5&theme=midnight-purple" />
 </a>
